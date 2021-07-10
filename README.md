@@ -28,10 +28,8 @@ npm install --save date-fns
 
 ```javascript
 REACT_APP_GOOGLE_MAP_API_KEY=""
+HTTPS=true // Needed so that the browser can ask the user for their location
 ```
-
-
-
 
 # Getting Started with Create React App
 
