@@ -23,3 +23,16 @@ yarn-debug.log*
 yarn-error.log*
 yarn.lock
 package-lock.json
+
+
+
+# HTTPS Backend
+/backend/node_modules
+/backend/npm-debug.log*
+/backend/yarn-debug.log*
+/backend/yarn-error.log*
+/backend/yarn.lock
+/backend/package-lock.json
+
+/backend/server.cert
+backend/server.key

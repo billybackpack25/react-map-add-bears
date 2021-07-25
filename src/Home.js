@@ -1,5 +1,3 @@
-// This has been replaced by Routing.js
-
 import React from 'react';
 
 // Google Map
@@ -55,7 +53,7 @@ const options = {
 
 
 
-export default function App() {  
+export default function Home() {  
   // isLoaded - Let's us know when the map is ready
   const {isLoaded, loadError} = useLoadScript({
     // Provide google API key
